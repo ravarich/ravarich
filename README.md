@@ -35,14 +35,36 @@ I specialize in backend development using **Java Spring Boot** and **.NET Core**
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks**  
-Java, C# (.NET Core), TypeScript, JavaScript, SQL, Node.js, Angular, React, Vue.js, Flutter
+#### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-%2300B4DB.svg?style=flat&logo=mysql&logoColor=white)
 
-**Database**  
-MySQL, SQL Server, NoSQL (MongoDB)
+#### 🌐 Frontend  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-**Tools**  
-Docker, Git, RESTful API, Microservices, Agile, GitHub Actions
+#### 🛠 Backend / API  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET_Core-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-API-blue.svg?style=flat)
+
+#### 🗃 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+#### 🚀 Tools & DevOps  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-Development-green.svg?style=flat)  
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-orange.svg?style=flat)
 
 ---
 
@@ -56,8 +78,5 @@ Docker, Git, RESTful API, Microservices, Agile, GitHub Actions
 
 ### 📫 Get in Touch
 
-- Email: [ravarich@gmail.com](mailto:ravarich@gmail.com)
-- Location: Bangkok, Thailand  
-- Resume: [View CV (PDF)](https://github.com/ravarich/ravarich/raw/main/Ravarich_Clongcot_CV.pdf) _(optional link)_
-
----
+- Email: [ravarich@gmail.com](mailto:ravarich@gmail.com)  
+- Location: Bangkok, Thailand
