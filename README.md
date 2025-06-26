@@ -4,6 +4,10 @@
   🔧 Full Stack Developer | 💻 Backend Specialist | 🌏 Based in Bangkok, Thailand  
 </p>
 
+🌐 More detail 
+>✨ Check out my portfolio:
+👉 https://portfolio-ravarich-2591.vercel.app
+
 ---
 
 ### 🚀 About Me
